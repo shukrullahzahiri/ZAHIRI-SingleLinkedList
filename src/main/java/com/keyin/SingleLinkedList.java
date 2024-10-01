@@ -2,7 +2,7 @@ package com.keyin;
 
 public class SingleLinkedList {
     // Node class to represent each element of the linked list
-    class Node {
+    static class Node {
         int data;
         Node next;
 
